@@ -1,4 +1,6 @@
 <img width="1584" height="396" alt="FROSTMOON CYBER" src="https://github.com/user-attachments/assets/6397adbb-5f80-442c-8447-e4528e8d4ad0" />
+
+
 # 🌙 Frostmoon Cyber | Personal Dev & Security Lab
 
 ## 🇪🇸 Sobre este espacio
@@ -20,7 +22,6 @@ This profile serves as my personal playground for technical experimentation and 
 ---
 
 ## 📂 Featured Labs & Projects / Laboratorios y Proyectos
-*(Aquí irás añadiendo tus repositorios según los crees)*
 
 * **[Network-Sec-Lab]:** Personal experiments with UniFi and VoIP security.
 * **[CTF-Writeups]:** My walkthroughs for TryHackMe and HackTheBox machines.
