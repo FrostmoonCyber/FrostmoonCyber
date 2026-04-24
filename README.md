@@ -23,10 +23,10 @@ This profile serves as my personal playground for technical experimentation and 
 
 ## 📂 Featured Labs & Projects / Laboratorios y Proyectos
 
-* **[Python4Cyber](./https://github.com/FrostmoonCyber/Python4Cyber)** Building custom security tools and automation scripts for network reconnaissance and auditing.
-* **[Network-Sec-Lab]:** (Working in progress) Personal experiments with UniFi and VoIP security.
-* **[CTF-Writeups]:** (Working in progress) My walkthroughs for TryHackMe and HackTheBox machines.
-* **[IoT-Research]:** (Working in progress) Security testing on Raspberry Pi and local hardware.
+* 🐍 **[Python4Cyber](./https://github.com/FrostmoonCyber/Python4Cyber)** Building custom security tools and automation scripts for network reconnaissance and auditing.
+* 📡 **[Network-Sec-Lab]:** (Work in progress) Personal experiments with UniFi and VoIP security.
+* 🚩 **[CTF-Writeups]:** (Work in progress) My walkthroughs for TryHackMe and HackTheBox machines.
+* 🤖 **[IoT-Research]:** (Work in progress) Security testing on Raspberry Pi and local hardware.
 
 
 ---
