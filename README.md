@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="FROSTMOON CYBER" src="https://github.com/user-attachments/assets/6397adbb-5f80-442c-8447-e4528e8d4ad0" />
+<img width="1584" height="396" alt="FROSTMOON CYBER" src="https://github.com/user-attachments/assets/3ef36e37-ef34-449e-a0c8-c32afe2cb9f9" />
 
 
 # 🌙 Frostmoon Cyber | Personal Dev & Security Lab
