@@ -3,7 +3,7 @@
 
 # 🌙 Frostmoon Cyber | Personal Dev & Security Lab
 
-## 🇬🇧 About this space
+##  About this space
 This profile serves as my personal playground for technical experimentation and growth. Here, I document my journey through cybersecurity and telecommunications via hands-on projects, labs, and technical challenges. This isn't a career summary; it's the **logbook of my continuous learning process**.
 
 - 🛠️ **Current Focus:** Exploring hardware vulnerabilities, network automation, and digital forensics.
